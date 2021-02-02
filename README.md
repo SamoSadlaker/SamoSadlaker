@@ -5,8 +5,8 @@
 
 ## I'm a Student, Developer, and Gamer!
 
--   🖥️ I’m currently working on a [My Portfolio site][website]!
--   🥅 2020 Goals: Create more modern sites
+-   🖥️ I’m currently working on Discord bots & Portfolio website!
+-   🥅 2021 Goals: Learn JavaScript & Node.js
 -   🎮 I’m gamer
 -   ☀️ I love to draw and play piano
 
