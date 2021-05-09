@@ -54,7 +54,10 @@
 
 ---
 
-<img align="left" alt="SamoSadlaker's Github Stats" src="https://github-readme-stats.samosadlaker.vercel.app/api?username=SamoSadlaker&show_icons=true&hide_border=true" />
+<img align="left" height="auto" alt="SamoSadlaker's Github Stats" src="https://github-readme-stats.samosadlaker.vercel.app/api?username=SamoSadlaker&show_icons=true&hide_border=true" />
+
+<img align="left" height="auto"  alt="SamoSadlaker's Github Stats" src="https://github-readme-stats.samosadlaker.vercel.app/api/top-langs/?username=SamoSadlaker" />
+
 
 [website]: https://samosadlaker.eu
 [twitter]: https://twitter.com/SamoSadlaker
