@@ -5,7 +5,7 @@
 
 <h2> I'm a Student, Developer, and Gamer! </h2>
 
--   🔭 I'm currently working as Web Developer and Graphic Designer in <a href="https://batcore.eu/affiliate/SamoSadlaker" target="blank">BatCore.eu</a>
+-   🔭 I'm currently working as Web Developer and Graphic Designer in new Project
 -   🥅 2022 Goals: Finish all started projects
 -   📫 How to reach me? <a href="mailto:dev@samosadlaker.eu">dev@samosadlaker.eu</a>
 -   🌱 I’m currently learning Laravel & JS Frameworks
