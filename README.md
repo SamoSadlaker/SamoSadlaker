@@ -1,5 +1,4 @@
 <img src="https://i.imgur.com/w0oG74t.png">
-<br>
 <h1> Hello, I'm Samuel👋</h1>
 
 <a href="https://samosadlaker.eu"><img src="https://img.shields.io/website?down_message=Offline&label=SamoSadlaker.eu&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fsamosadlaker.eu" /></a>
