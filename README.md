@@ -6,12 +6,12 @@
 
 <h2> I'm a Student, Developer, and Gamer! </h2>
 
--   🔭 I'm currently working on <a href="https://onebeatradio.com">OneBeatRadio.com</a>, <a href="https://tamhost.cz">TamHost.cz</a> and some other projects
--   🥅 2023 Goals: Develop coding skills and learn development methodologies
+-   🔭 I'm currently working on <a href="https://pribehyabsolventov.sk">Pribehyabsolventov.sk</a>, <a href="https://tamhost.cz">TamHost.cz</a> and some other projects
+-   🥅 2025 Goals: Grduate and finish my school.
 -   📫 How to reach me? <a href="mailto:dev@samosadlaker.eu">dev@samosadlaker.eu</a>
--   🌱 I’m currently learning C# | Laravel + IntertiaJS + Vue.js
+-   🌱 I’m currently learning C# | Laravel + IntertiaJS + Vue.js | NEXT.js + React
 -   🏫 Studying at the Secondary Technical school of Jozef Murgas
--   ⚡ Fun fact: I'm 16
+-   ⚡ Fun fact: I'm 18
 
 ---
 
