@@ -1,44 +1,59 @@
-<a href="https://samosadlaker.eu"><img src="https://i.imgur.com/w0oG74t.png"></a>
-<h1> Hello, I'm Samuel👋</h1>
+<div align="center">
+  <a href="https://samosadlaker.eu">
+    <img src="https://i.imgur.com/w0oG74t.png" alt="Header Banner" width="100%">
+  </a>
+</div>
 
-<a href="https://samosadlaker.eu"><img src="https://img.shields.io/website?down_message=Offline&label=SamoSadlaker.eu&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fsamosadlaker.eu" /></a>
-<a href="https://twitter.com/SamoSadlaker"><img src="https://img.shields.io/twitter/follow/SamoSadlaker?color=%231DA1F2&logo=Twitter&style=for-the-badge" /></a>
+<h1 align="center">
+  <a href="https://github.com/SamoSadlaker">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=32&pause=1000&color=008BF8&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Samuel+%F0%9F%91%8B;Student+%7C+Developer+%7C+Gamer" alt="Typing SVG" />
+  </a>
+</h1>
 
-<h2> I'm a Student, Developer, and Gamer! </h2>
+<div align="center">
+  <a href="https://samosadlaker.eu"><img src="https://img.shields.io/website?down_message=Offline&label=SamoSadlaker.eu&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fsamosadlaker.eu&color=008bf8" alt="Website" /></a>
+</div>
 
--   🔭 I'm currently working on <a href="https://pribehyabsolventov.sk">Pribehyabsolventov.sk</a>, <a href="https://tamhost.cz">TamHost.cz</a> and some other projects
--   🥅 2025 Goals: Grduate and finish my school.
--   📫 How to reach me? <a href="mailto:dev@samosadlaker.eu">dev@samosadlaker.eu</a>
--   🌱 I’m currently learning C# | Laravel + IntertiaJS + Vue.js | NEXT.js + React
--   🏫 Studying at the Secondary Technical school of Jozef Murgas
--   ⚡ Fun fact: I'm 18
+<br/>
 
----
+### 👨‍💻 About Me
 
-<h2> 🎧 Spotify playing: </h2>
+- 🔭 I'm currently working on **[TamHost.cz](https://tamhost.cz)** and other awesome projects.
+- 🌱 I’m currently learning & using: **C# | Laravel + InertiaJS + Vue.js | Next.js + React**
+- 🏫 Studying at **FEEC BUT** (The Faculty of Electrical Engineering and Communication, Brno University of Technology).
+- 🎓 Previously studied at the Secondary Technical School of Jozef Murgaš.
+- 🥅 **2027 Goals:** Continue with my studies at university, and level up my developer skills.
+- ⚡ **Fun fact:** I'm 19!
+- 📫 **How to reach me:** [dev@samosadlaker.eu](mailto:dev@samosadlaker.eu)
 
-<a href="https://open.spotify.com/user/21qfvaoihyob3pf45p32ny37y"><img src="https://spotify-playing.samosadlaker.vercel.app/api/spotify" /></a>
+<br/>
 
----
+### 🛠️ Tech Stack & Tools
 
-<h2> 📱 Contact me: </h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,vue,react,svg,php,laravel,cs,py,mysql,redis,bash,npm,vite,webpack,git,github,docker,nginx,cloudflare,ubuntu,raspberrypi,prometheus,grafana,postman,vscode,phpstorm,codepen,figma,ps,obsidian,windows,discord,spotify&perline=10" alt="My Skills" />
+</div>
 
-<p align="left">
-<a href="https://twitter.com/samosadlaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samosadlaker" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samuel-sadlak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-sadlak" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14981739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14981739" height="30" width="40" /></a>
-<a href="https://fb.com/samuel.sadlak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samuel.sadlak" height="30" width="40" /></a>
-<a href="https://instagram.com/samosadlaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samosadlaker" height="30" width="40" /></a>
-</p>
+<br/>
 
-<br />
+### 📊 GitHub Stats
 
----
+<div align="center">
+  <img src="https://github-readme-stats.samosadlaker.vercel.app/api?username=SamoSadlaker&show_icons=true&hide_border=true&theme=dark&icon_color=008bf8&bg_color=011224" height="192" alt="SamoSadlaker's Github Stats"/>
+  <img src="https://github-readme-stats.samosadlaker.vercel.app/api/top-langs/?username=SamoSadlaker&hide_border=true&theme=dark&bg_color=011224&layout=compact" height="192" alt="SamoSadlaker's Top Languages"/>
+</div>
 
-<img src="https://i.imgur.com/OCfXpXn.png" width="100%">
+<br/>
 
----
+### 📱 Let's Connect
 
-<img align="left" height="auto" alt="SamoSadlaker's Github Stats" src="https://github-readme-stats.samosadlaker.vercel.app/api?username=SamoSadlaker&show_icons=true&hide_border=true&theme=dark&icon_color=008bf8&bg_color=011224" />
+  <a href="https://linkedin.com/in/samuel-sadlak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/samosadlaker" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://fb.com/samuel.sadlak" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</div>
 
-<img align="left" height="auto"  alt="SamoSadlaker's Github Stats" src="https://github-readme-stats.samosadlaker.vercel.app/api/top-langs/?username=SamoSadlaker&hide_border=true&theme=dark&bg_color=011224" />
+<br/>
+
+<div align="center">
+  <img src="https://i.imgur.com/OCfXpXn.png" width="100%" alt="Footer Banner">
+</div>
