@@ -39,8 +39,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.samosadlaker.vercel.app/api?username=SamoSadlaker&show_icons=true&hide_border=true&theme=dark&icon_color=008bf8&bg_color=011224" height="192" alt="SamoSadlaker's Github Stats"/>
-  <img src="https://github-readme-stats.samosadlaker.vercel.app/api/top-langs/?username=SamoSadlaker&hide_border=true&theme=dark&bg_color=011224&layout=compact" height="192" alt="SamoSadlaker's Top Languages"/>
+  <img src="https://github-stats-extended-frontend-sigma-henna.vercel.app/api?username=samosadlaker&theme=github_dark&show_icons=true&icon_color=008bf8" height="192" alt="SamoSadlaker's Github Stats"/>
+  <img src="https://github-stats-extended-frontend-sigma-henna.vercel.app/api/top-langs?username=samosadlaker&theme=github_dark&show_icons=true&icon_color=008bf8&layout=donut" height="192" alt="SamoSadlaker's Top Languages"/>
 </div>
 
 <br/>
